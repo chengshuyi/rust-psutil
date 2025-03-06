@@ -40,7 +40,7 @@ disk = ["derive_more", "unescape"]
 host = ["platforms"]
 memory = ["mach2"]
 network = ["derive_more"]
-process = ["darwin-libproc", "mach2", "memory"]
+process = ["mach2", "memory"]
 sensors = ["glob"]
 
 [dev-dependencies]
